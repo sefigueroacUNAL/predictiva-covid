@@ -53,6 +53,15 @@ El producto de datos debe contener información sobre los pasos de la metodolog�
 
 El repo debe contener el producto desarrollado.
 
+# Desarrollo 
+
+# Datos
+
+Para el análisis se usaron principalmente los datos encontrados en: https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data
+
+Para la obtención de estos se usó la librería https://ucd-dnp.github.io/leila/
+
+
 
 
 
