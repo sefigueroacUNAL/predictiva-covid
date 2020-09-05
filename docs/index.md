@@ -17,7 +17,17 @@ Los resultados del proceso pueden verse en:
 
 ## Modelos ciudades
 
-[Modelo Bogotá](2_Preprocesamiento.html)
+[Modelo Bogotá](3_Modelo_Bogota.html)
+
+[Modelo Medellín](3_Modelo_Medellin.html)
+
+[Modelo Cali](3_Modelo_Cali.html)
+
+[Modelo Barranquilla](3_Modelo_Barranquilla.html)
+
+[Modelo Cartagena](3_Modelo_Cartagena.html)
+
+
 
 
 
