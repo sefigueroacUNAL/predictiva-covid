@@ -34,6 +34,23 @@ Los resultados del proceso pueden verse en:
 
 ![Imágenes Bogotá](images/diag_Bogota.png)
 
+### Medellín
+
+![Imágenes Medellín](images/diag_Medellin.png)
+
+### Cali
+
+![Imágenes Cali](images/diag_Cali.png)
+
+### Barranquilla
+
+![Imágenes Barranquilla](images/diag_Barranquilla.png)
+
+
+### Cartagena
+
+![Imágenes Cartagena](images/diag_Cartagena.png)
+
 
 
 
