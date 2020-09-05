@@ -28,6 +28,12 @@ Los resultados del proceso pueden verse en:
 [Modelo Cartagena](3_Modelo_Cartagena.html)
 
 
+## Diagnóstico Inicial
+
+### Bogotá
+
+![Imágenes Bogotá](images/diag_Bogota)
+
 
 
 
