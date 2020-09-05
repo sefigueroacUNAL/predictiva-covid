@@ -61,6 +61,8 @@ Para el análisis se usaron principalmente los datos encontrados en: https://www
 
 Para la obtención de estos se usó la librería https://ucd-dnp.github.io/leila/
 
+Dashboard: https://sefigueroacunal.github.io/predictiva-covid/
+
 
 
 
