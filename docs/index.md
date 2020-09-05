@@ -32,7 +32,7 @@ Los resultados del proceso pueden verse en:
 
 ### Bogotá
 
-![Imágenes Bogotá](images/diag_Bogota)
+![Imágenes Bogotá](images/diag_Bogota.png)
 
 
 
