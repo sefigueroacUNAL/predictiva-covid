@@ -7,6 +7,6 @@ En la literatura más relevante, la evolución de casos en general ha sido abord
 
 Los resultados del proceso pueden verse en:
 
-1. [Descarga de datos](docs/1_Descarga de Datos.html)
+1. [Descarga de datos](1_Descarga de Datos.html)
 
 
