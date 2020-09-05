@@ -134,6 +134,6 @@ Notebooks/DataRaw/*
 
 
 #Config
-LocalConfig/*
+LocalConfig/config.json
 
 
