@@ -18,16 +18,22 @@
 
 ![Imágenes Bogotá](images/pcp_Bogota_muertes.png)
 
+
+### Total recuperados
+
+![Imágenes Bogotá](images/pcp_Bogota_recuperados.png)
+
 ## Largo Plazo
 
 ### Total activos
 
 ![Imágenes Bogotá](images/pmp_Bogota_activos.png)
 
-### Total infectados
-
-![Imágenes Bogotá](images/pmp_Bogota_infectados.png)
 
 ### Total muertes
 
 ![Imágenes Bogotá](images/pmp_Bogota_muertes.png)
+
+### Total recuperados
+
+![Imágenes Bogotá](images/pmp_Bogota_recuperados.png)
