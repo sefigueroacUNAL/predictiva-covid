@@ -22,6 +22,6 @@
 
 ## Largo Plazo
 
-![Imágenes Bogotá](images/plp_Bogota_activos.png)
-![Imágenes Bogotá](images/plp_Bogota_infectados.png)
-![Imágenes Bogotá](images/plp_Bogota_muertes.png)
+![Imágenes Bogotá](images/pmp_Bogota_activos.png)
+![Imágenes Bogotá](images/pmp_Bogota_infectados.png)
+![Imágenes Bogotá](images/pmp_Bogota_muertes.png)

@@ -22,6 +22,6 @@
 
 ## Largo Plazo
 
-![Imágenes Cartagena](images/plp_Cartagena_activos.png)
-![Imágenes Cartagena](images/plp_Cartagena_infectados.png)
-![Imágenes Cartagena](images/plp_Cartagena_muertes.png)
+![Imágenes Cartagena](images/pmp_Cartagena_activos.png)
+![Imágenes Cartagena](images/pmp_Cartagena_infectados.png)
+![Imágenes Cartagena](images/pmp_Cartagena_muertes.png)

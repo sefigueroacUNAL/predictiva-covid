@@ -22,6 +22,6 @@
 
 ## Largo Plazo
 
-![Imágenes Cali](images/plp_Cali_activos.png)
-![Imágenes Cali](images/plp_Cali_infectados.png)
-![Imágenes Cali](images/plp_Cali_muertes.png)
+![Imágenes Cali](images/pmp_Cali_activos.png)
+![Imágenes Cali](images/pmp_Cali_infectados.png)
+![Imágenes Cali](images/pmp_Cali_muertes.png)

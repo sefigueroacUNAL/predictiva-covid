@@ -22,6 +22,6 @@
 
 ## Largo Plazo
 
-![Imágenes Barranquilla](images/plp_Barranquilla_activos.png)
-![Imágenes Barranquilla](images/plp_Barranquilla_infectados.png)
-![Imágenes Barranquilla](images/plp_Barranquilla_muertes.png)
+![Imágenes Barranquilla](images/pmp_Barranquilla_activos.png)
+![Imágenes Barranquilla](images/pmp_Barranquilla_infectados.png)
+![Imágenes Barranquilla](images/pmp_Barranquilla_muertes.png)

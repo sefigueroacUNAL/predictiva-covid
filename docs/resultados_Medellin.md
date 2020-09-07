@@ -22,6 +22,6 @@
 
 ## Largo Plazo
 
-![Imágenes Medellin](images/plp_Medellin_activos.png)
-![Imágenes Medellin](images/plp_Medellin_infectados.png)
-![Imágenes Medellin](images/plp_Medellin_muertes.png)
+![Imágenes Medellin](images/pmp_Medellin_activos.png)
+![Imágenes Medellin](images/pmp_Medellin_infectados.png)
+![Imágenes Medellin](images/pmp_Medellin_muertes.png)
