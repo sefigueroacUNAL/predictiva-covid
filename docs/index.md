@@ -17,58 +17,74 @@ Los resultados del proceso pueden verse en:
 
 ## Modelos ciudades
 ---
+### Bogotá
 
 [Modelo Bogotá](3_Modelo_Bogota.html)
 
 [Resultados Bogotá](resultados_Bogota.md)
 
+#### Diagnóstico
+
+![Imágenes Bogotá](images/diag_Bogota.png)
+
 ---
+### Medellín
 
 [Modelo Medellín](3_Modelo_Medellin.html)
 
 [Resultados Medellín](resultados_Medellin.md)
 
+#### Diagnóstico
+
+![Imágenes Medellín](images/diag_Medellin.png)
+
 ---
+### Cali
 
 [Modelo Cali](3_Modelo_Cali.html)
 
 [Resultados Cali](resultados_Cali.md)
 
+#### Diagnóstico
+
+![Imágenes Cali](images/diag_Cali.png)
+
 ---
+
+### Barranquilla
 
 [Modelo Barranquilla](3_Modelo_Barranquilla.html)
 
 [Resultados Barranquilla](resultados_Barranquilla.md)
 
+#### Diagnóstico
+
+![Imágenes Barranquilla](images/diag_Barranquilla.png)
+
 ---
+
+### Cartagena
 
 [Modelo Cartagena](3_Modelo_Cartagena.html)
 
 [Resultados Cartagena](resultados_Cartagena.md)
 
----
-## Diagnóstico Inicial
-
-### Bogotá
-
-![Imágenes Bogotá](images/diag_Bogota.png)
-
-### Medellín
-
-![Imágenes Medellín](images/diag_Medellin.png)
-
-### Cali
-
-![Imágenes Cali](images/diag_Cali.png)
-
-### Barranquilla
-
-![Imágenes Barranquilla](images/diag_Barranquilla.png)
-
-
-### Cartagena
+#### Diagnóstico
 
 ![Imágenes Cartagena](images/diag_Cartagena.png)
+
+---
+
+
+
+
+
+
+
+
+
+
+
 
 
 
