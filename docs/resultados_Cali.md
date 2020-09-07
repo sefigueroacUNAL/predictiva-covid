@@ -20,8 +20,14 @@
 
 ## Largo Plazo
 
-## Largo Plazo
+### Total activos
 
 ![Imágenes Cali](images/pmp_Cali_activos.png)
+
+### Total infectados
+
 ![Imágenes Cali](images/pmp_Cali_infectados.png)
+
+### Total muertes
+
 ![Imágenes Cali](images/pmp_Cali_muertes.png)

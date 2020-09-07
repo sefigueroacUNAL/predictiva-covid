@@ -20,8 +20,14 @@
 
 ## Largo Plazo
 
-## Largo Plazo
+### Total activos
 
 ![Imágenes Cartagena](images/pmp_Cartagena_activos.png)
+
+### Total infectados
+
 ![Imágenes Cartagena](images/pmp_Cartagena_infectados.png)
+
+### Total muertes
+
 ![Imágenes Cartagena](images/pmp_Cartagena_muertes.png)

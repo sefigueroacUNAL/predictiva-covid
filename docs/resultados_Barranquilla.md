@@ -20,8 +20,14 @@
 
 ## Largo Plazo
 
-## Largo Plazo
+### Total activos
 
 ![Imágenes Barranquilla](images/pmp_Barranquilla_activos.png)
+
+### Total infectados
+
 ![Imágenes Barranquilla](images/pmp_Barranquilla_infectados.png)
+
+### Total muertes
+
 ![Imágenes Barranquilla](images/pmp_Barranquilla_muertes.png)

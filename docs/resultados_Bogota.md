@@ -20,8 +20,14 @@
 
 ## Largo Plazo
 
-## Largo Plazo
+### Total activos
 
 ![Imágenes Bogotá](images/pmp_Bogota_activos.png)
+
+### Total infectados
+
 ![Imágenes Bogotá](images/pmp_Bogota_infectados.png)
+
+### Total muertes
+
 ![Imágenes Bogotá](images/pmp_Bogota_muertes.png)
