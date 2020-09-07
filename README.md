@@ -1,5 +1,8 @@
 # Pronostico de la evolución de casos activos de SARS-CoV-2 en Colombia
 
+## Dashboard
+
+Encuentre el Dashboard con los resultados de este trabajo en el siguiente link: https://sefigueroacunal.github.io/predictiva-covid/
 
 ## Introducción
 
@@ -61,7 +64,7 @@ Para el análisis se usaron principalmente los datos encontrados en: https://www
 
 Para la obtención de estos se usó la librería https://ucd-dnp.github.io/leila/
 
-Dashboard: https://sefigueroacunal.github.io/predictiva-covid/
+
 
 
 
