@@ -1,0 +1,27 @@
+# Resultados Barranquilla
+
+[Volver](index.md)
+
+## Barranquilla
+
+## Corto Plazo
+
+### Total activos
+
+![Imágenes Barranquilla](images/pcp_Barranquilla_activos.png)
+
+### Total Infectados
+
+![Imágenes Barranquilla](images/pcp_Barranquilla_infectados.png)
+
+### Total muertes
+
+![Imágenes Barranquilla](images/pcp_Barranquilla_muertes.png)
+
+## Largo Plazo
+
+## Largo Plazo
+
+![Imágenes Barranquilla](images/plp_Barranquilla_activos.png)
+![Imágenes Barranquilla](images/plp_Barranquilla_infectados.png)
+![Imágenes Barranquilla](images/plp_Barranquilla_muertes.png)

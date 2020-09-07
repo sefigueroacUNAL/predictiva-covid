@@ -17,15 +17,34 @@ Los resultados del proceso pueden verse en:
 
 ## Modelos ciudades
 
+
 [Modelo Bogotá](3_Modelo_Bogota.html)
+
+[Resultados Bogotá](resultados_Bogota.md)
+
+
 
 [Modelo Medellín](3_Modelo_Medellin.html)
 
+[Resultados Medellín](resultados_Medllin.md)
+
+
+
 [Modelo Cali](3_Modelo_Cali.html)
+
+[Resultados Cali](resultados_Cali.md)
+
+
 
 [Modelo Barranquilla](3_Modelo_Barranquilla.html)
 
+[Resultados Barranquilla](resultados_Barranquilla.md)
+
+
+
 [Modelo Cartagena](3_Modelo_Cartagena.html)
+
+[Resultados Cartagena](resultados_Cartagena.md)
 
 
 ## Diagnóstico Inicial
